@@ -1,0 +1,9 @@
+All the basic functionalities implemented. 
+To run the dragon 
+./ray -w 512 -r 1 -d 17 -a 1 scenes/polymesh/dragon.ray out1.bmp
+I have two strategies you can change it by a flag. d and l are depth and leafe max min 
+
+You can change the rest of the things using UI. like anti aliasing and smooth shading
+blah blah 
+akah test
+ec

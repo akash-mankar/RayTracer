@@ -1,0 +1,2966 @@
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.365573 0.238689
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.368846 0.237894
+other loop
+outside 0 0
+inside 0.374878 0.256397
+other loop
+outside 0 0
+inside 0.38114 0.276506
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.372247 0.237109
+other loop
+outside 0 0
+inside 0.37847 0.255466
+other loop
+outside 0 0
+inside 0.384928 0.275402
+other loop
+outside 0 0
+inside 0.391643 0.297242
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.375781 0.236332
+other loop
+outside 0 0
+inside 0.382197 0.254546
+other loop
+outside 0 0
+inside 0.388855 0.274312
+other loop
+outside 0 0
+inside 0.395774 0.295946
+other loop
+outside 0 0
+inside 0.402984 0.319898
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.379451 0.235565
+other loop
+outside 0 0
+inside 0.386065 0.253637
+other loop
+outside 0 0
+inside 0.392923 0.273236
+other loop
+outside 0 0
+inside 0.400046 0.294669
+other loop
+outside 0 0
+inside 0.407463 0.31837
+other loop
+outside 0 0
+inside 0.415221 0.34499
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.383263 0.234806
+other loop
+outside 0 0
+inside 0.390075 0.25274
+other loop
+outside 0 0
+inside 0.397134 0.272175
+other loop
+outside 0 0
+inside 0.404459 0.293409
+other loop
+outside 0 0
+inside 0.412081 0.316864
+other loop
+outside 0 0
+inside 0.420044 0.343167
+other loop
+outside 0 0
+inside 0.428427 0.373327
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.387219 0.234057
+other loop
+outside 0 0
+inside 0.394231 0.251853
+other loop
+outside 0 0
+inside 0.40149 0.271127
+other loop
+outside 0 0
+inside 0.409015 0.292167
+other loop
+outside 0 0
+inside 0.416835 0.315382
+other loop
+outside 0 0
+inside 0.424996 0.341374
+other loop
+outside 0 0
+inside 0.433574 0.371111
+other loop
+outside 0 0
+inside 0.442718 0.406326
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.391324 0.233315
+other loop
+outside 0 0
+inside 0.398534 0.250977
+other loop
+outside 0 0
+inside 0.405991 0.270092
+other loop
+outside 0 0
+inside 0.413712 0.290942
+other loop
+outside 0 0
+inside 0.421724 0.313921
+other loop
+outside 0 0
+inside 0.430072 0.339612
+other loop
+outside 0 0
+inside 0.438833 0.368937
+other loop
+outside 0 0
+inside 0.448152 0.403537
+other loop
+outside 0 0
+inside 0.458359 0.44694
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.395579 0.232583
+other loop
+outside 0 0
+inside 0.402987 0.250112
+other loop
+outside 0 0
+inside 0.410638 0.26907
+other loop
+outside 0 0
+inside 0.418549 0.289733
+other loop
+outside 0 0
+inside 0.426744 0.312483
+other loop
+outside 0 0
+inside 0.435268 0.337879
+other loop
+outside 0 0
+inside 0.444195 0.366805
+other loop
+outside 0 0
+inside 0.45367 0.400815
+other loop
+outside 0 0
+inside 0.464013 0.443175
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.40759 0.249256
+other loop
+outside 0 0
+inside 0.41543 0.268062
+other loop
+outside 0 0
+inside 0.423522 0.288541
+other loop
+outside 0 0
+inside 0.43189 0.311065
+other loop
+outside 0 0
+inside 0.440575 0.336174
+other loop
+outside 0 0
+inside 0.449651 0.364714
+other loop
+outside 0 0
+inside 0.459259 0.398156
+other loop
+outside 0 0
+inside 0.469712 0.439534
+other loop
+outside 0 0
+inside 0.481975 0.497875
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.412342 0.248411
+other loop
+outside 0 0
+inside 0.420364 0.267066
+other loop
+outside 0 0
+inside 0.428628 0.287365
+other loop
+outside 0 0
+inside 0.437156 0.309668
+other loop
+outside 0 0
+inside 0.445987 0.334496
+other loop
+outside 0 0
+inside 0.455192 0.362661
+other loop
+outside 0 0
+inside 0.464909 0.395557
+other loop
+outside 0 0
+inside 0.47544 0.436009
+other loop
+outside 0 0
+inside 0.487685 0.492038
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.417241 0.247576
+other loop
+outside 0 0
+inside 0.425437 0.266082
+other loop
+outside 0 0
+inside 0.433862 0.286204
+other loop
+outside 0 0
+inside 0.442534 0.308291
+other loop
+outside 0 0
+inside 0.451492 0.332845
+other loop
+outside 0 0
+inside 0.460804 0.360646
+other loop
+outside 0 0
+inside 0.470605 0.393016
+other loop
+outside 0 0
+inside 0.481185 0.432591
+other loop
+outside 0 0
+inside 0.49338 0.486547
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.422287 0.24675
+other loop
+outside 0 0
+inside 0.430645 0.26511
+other loop
+outside 0 0
+inside 0.439215 0.285058
+other loop
+outside 0 0
+inside 0.448015 0.306933
+other loop
+outside 0 0
+inside 0.45708 0.331221
+other loop
+outside 0 0
+inside 0.466477 0.358667
+other loop
+outside 0 0
+inside 0.476334 0.390531
+other loop
+outside 0 0
+inside 0.486932 0.429275
+other loop
+outside 0 0
+inside 0.499047 0.481355
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.427473 0.245934
+other loop
+outside 0 0
+inside 0.43598 0.26415
+other loop
+outside 0 0
+inside 0.44468 0.283928
+other loop
+outside 0 0
+inside 0.453589 0.305595
+other loop
+outside 0 0
+inside 0.46274 0.329621
+other loop
+outside 0 0
+inside 0.472196 0.356724
+other loop
+outside 0 0
+inside 0.482083 0.388099
+other loop
+outside 0 0
+inside 0.492667 0.426053
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.432796 0.245127
+other loop
+outside 0 0
+inside 0.441437 0.263202
+other loop
+outside 0 0
+inside 0.450248 0.282812
+other loop
+outside 0 0
+inside 0.459245 0.304275
+other loop
+outside 0 0
+inside 0.468458 0.328046
+other loop
+outside 0 0
+inside 0.477948 0.354814
+other loop
+outside 0 0
+inside 0.487836 0.385718
+other loop
+outside 0 0
+inside 0.498376 0.422921
+other loop
+outside 0 0
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.438248 0.24433
+other loop
+outside 0 0
+inside 0.447004 0.262265
+other loop
+outside 0 0
+inside 0.455908 0.28171
+other loop
+outside 0 0
+inside 0.46497 0.302974
+other loop
+outside 0 0
+inside 0.474221 0.326496
+other loop
+outside 0 0
+inside 0.483718 0.352938
+other loop
+outside 0 0
+inside 0.493578 0.383386
+other loop
+outside 0 0
+outside 0 0
+other loop
+other loop
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.443821 0.243541
+other loop
+outside 0 0
+inside 0.452673 0.261339
+other loop
+outside 0 0
+inside 0.461647 0.280622
+other loop
+outside 0 0
+inside 0.470751 0.30169
+other loop
+outside 0 0
+inside 0.480013 0.324968
+other loop
+outside 0 0
+inside 0.489491 0.351093
+other loop
+outside 0 0
+inside 0.499296 0.381101
+other loop
+outside 0 0
+outside 0 0
+other loop
+other loop
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.449504 0.242762
+other loop
+outside 0 0
+inside 0.458432 0.260425
+other loop
+outside 0 0
+inside 0.467451 0.279548
+other loop
+outside 0 0
+inside 0.476572 0.300424
+other loop
+outside 0 0
+inside 0.48582 0.323464
+other loop
+outside 0 0
+inside 0.495252 0.34928
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+other loop
+other loop
+other loop
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.455287 0.241991
+other loop
+outside 0 0
+inside 0.464266 0.259521
+other loop
+outside 0 0
+inside 0.473307 0.278488
+other loop
+outside 0 0
+inside 0.482419 0.299175
+other loop
+outside 0 0
+inside 0.491627 0.321981
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+other loop
+other loop
+other loop
+other loop
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.461155 0.241229
+other loop
+outside 0 0
+inside 0.470162 0.258628
+other loop
+outside 0 0
+inside 0.479199 0.277441
+other loop
+outside 0 0
+inside 0.488276 0.297943
+other loop
+outside 0 0
+inside 0.497419 0.320521
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.467096 0.240475
+other loop
+outside 0 0
+inside 0.476104 0.257745
+other loop
+outside 0 0
+inside 0.485111 0.276406
+other loop
+outside 0 0
+inside 0.494128 0.296727
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.473094 0.239729
+other loop
+outside 0 0
+inside 0.482077 0.256872
+other loop
+outside 0 0
+inside 0.491028 0.275384
+other loop
+outside 0 0
+inside 0.499958 0.295527
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.479131 0.238992
+other loop
+outside 0 0
+inside 0.488063 0.25601
+other loop
+outside 0 0
+inside 0.496932 0.274375
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.485192 0.238263
+other loop
+outside 0 0
+inside 0.494046 0.255157
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.491259 0.237541
+other loop
+outside 0 0
+outside 0 0
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+inside 0.157988 0.881131
+outside 0 0
+outside 0 0
+outside 0 0
+inside 0.497314 0.236827
+other loop
+outside 0 0
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+inside 0.163274 0.927821
+inside 0.159659 0.912328
+inside 0.156639 0.896162
+inside 0.154084 0.879395
+inside 0.151901 0.862086
+inside 0.158867 0.115629
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+inside 0.168407 0.954792
+inside 0.163093 0.94088
+inside 0.158829 0.926112
+inside 0.155334 0.910599
+inside 0.152421 0.894428
+inside 0.149961 0.877667
+inside 0.147864 0.860373
+inside 0.146062 0.842593
+inside 0.144505 0.824372
+inside 0.143154 0.805746
+inside 0.15045 0.151392
+inside 0.152623 0.133634
+inside 0.155123 0.116376
+inside 0.158023 0.0996717
+inside 0.161425 0.0835848
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+inside 0.169939 0.966158
+inside 0.163332 0.953174
+inside 0.158203 0.939208
+inside 0.154101 0.924406
+inside 0.150747 0.908876
+inside 0.147958 0.892701
+inside 0.145607 0.875946
+inside 0.143607 0.858668
+inside 0.141892 0.840913
+inside 0.140413 0.822722
+inside 0.139132 0.804133
+inside 0.138021 0.785179
+inside 0.137057 0.765891
+inside 0.143088 0.188771
+inside 0.144723 0.170201
+inside 0.14658 0.152042
+inside 0.148705 0.134332
+inside 0.151151 0.117118
+inside 0.153995 0.100451
+inside 0.157338 0.0843935
+inside 0.161324 0.06902
+inside 0.166166 0.0544265
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+inside 0.172792 0.976523
+inside 0.164237 0.964618
+inside 0.157891 0.951555
+inside 0.152983 0.937537
+inside 0.14907 0.922704
+inside 0.145879 0.907158
+inside 0.143233 0.89098
+inside 0.141008 0.874233
+inside 0.139119 0.856972
+inside 0.137502 0.839241
+inside 0.13611 0.821081
+inside 0.134908 0.80253
+inside 0.133867 0.783619
+inside 0.132966 0.764379
+inside 0.132187 0.744839
+inside 0.131515 0.725025
+inside 0.130941 0.704964
+inside 0.130454 0.684681
+inside 0.134386 0.266734
+inside 0.135364 0.246929
+inside 0.136464 0.227403
+inside 0.137703 0.208184
+inside 0.139103 0.189303
+inside 0.140687 0.170792
+inside 0.142491 0.152686
+inside 0.144555 0.135026
+inside 0.146937 0.117856
+inside 0.149709 0.101226
+inside 0.152975 0.0851978
+inside 0.15688 0.0698443
+inside 0.161638 0.0552589
+inside 0.167582 0.0415655
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+inside 0.196791 0.994296
+inside 0.178046 0.985684
+inside 0.166259 0.97509
+inside 0.158085 0.963072
+inside 0.152053 0.949934
+inside 0.147406 0.935868
+inside 0.143714 0.921005
+inside 0.140714 0.905446
+inside 0.138231 0.889266
+inside 0.13615 0.872528
+inside 0.134386 0.855284
+inside 0.132881 0.837578
+inside 0.131587 0.81945
+inside 0.130473 0.800936
+inside 0.12951 0.782068
+inside 0.128678 0.762876
+inside 0.127961 0.743388
+inside 0.127345 0.723631
+inside 0.12682 0.70363
+inside 0.126377 0.683409
+inside 0.126009 0.662993
+inside 0.12571 0.642403
+inside 0.125476 0.621664
+inside 0.125302 0.600795
+inside 0.125186 0.579821
+inside 0.125127 0.558761
+inside 0.126595 0.389779
+inside 0.127038 0.368913
+inside 0.127547 0.348178
+inside 0.128127 0.327595
+inside 0.128785 0.307188
+inside 0.129528 0.28698
+inside 0.130364 0.266996
+inside 0.131305 0.247262
+inside 0.132364 0.227804
+inside 0.133557 0.20865
+inside 0.134903 0.189831
+inside 0.13643 0.171378
+inside 0.138168 0.153327
+inside 0.140161 0.135716
+inside 0.142462 0.118589
+inside 0.145146 0.101997
+inside 0.148315 0.0859978
+inside 0.152114 0.0706646
+inside 0.15676 0.056088
+inside 0.162589 0.0423884
+inside 0.170155 0.0297343
+other loop
+other loop
+other loop
+other loop
+other loop
+other loop
+inside 0.188315 0.993294
+inside 0.170349 0.984405
+inside 0.159154 0.973646
+inside 0.151444 0.961521
+inside 0.145786 0.948313
+inside 0.141447 0.9342
+inside 0.138014 0.919311
+inside 0.135232 0.90374
+inside 0.132938 0.887559
+inside 0.131019 0.870831
+inside 0.129398 0.853604
+inside 0.128017 0.835924
+inside 0.126834 0.817828
+inside 0.125817 0.799352
+inside 0.124941 0.780527
+inside 0.124186 0.761383
+inside 0.123538 0.741947
+inside 0.122983 0.722246
+inside 0.122512 0.702305
+inside 0.122117 0.682147
+inside 0.121791 0.661796
+inside 0.121529 0.641275
+inside 0.121327 0.620606
+inside 0.121181 0.59981
+inside 0.121089 0.57891
+inside 0.121048 0.557927
+inside 0.121058 0.536881
+inside 0.121117 0.515794
+inside 0.121226 0.494687
+inside 0.121384 0.47358
+inside 0.121592 0.452495
+inside 0.121851 0.431452
+inside 0.122164 0.410474
+inside 0.122532 0.389581
+inside 0.12296 0.368795
+inside 0.12345 0.348138
+inside 0.124007 0.327632
+inside 0.124637 0.307301
+inside 0.125348 0.287167
+inside 0.126147 0.267256
+inside 0.127046 0.247592
+inside 0.128056 0.228202
+inside 0.129194 0.209113
+inside 0.13048 0.190356
+inside 0.131938 0.171961
+inside 0.133599 0.153963
+inside 0.135505 0.136401
+inside 0.13771 0.119318
+inside 0.140286 0.102763
+inside 0.143334 0.0867935
+inside 0.147 0.071481
+inside 0.1515 0.0569139
+inside 0.15717 0.0432091
+inside 0.164574 0.0305296
+inside 0.174742 0.0191223
+other loop
+other loop
+other loop
+other loop
+inside 0.211852 0.998627
+inside 0.178853 0.992248
+inside 0.161878 0.983105
+inside 0.151418 0.972192
+inside 0.144273 0.959966
+inside 0.139061 0.946691
+inside 0.135083 0.932536
+inside 0.131949 0.917622
+inside 0.129418 0.902039
+inside 0.127338 0.885859
+inside 0.125604 0.869141
+inside 0.124142 0.851933
+inside 0.122901 0.834279
+inside 0.121841 0.816215
+inside 0.120932 0.797777
+inside 0.120152 0.778995
+inside 0.119483 0.759899
+inside 0.11891 0.740516
+inside 0.118422 0.72087
+inside 0.11801 0.700988
+inside 0.117667 0.680893
+inside 0.117388 0.660608
+inside 0.117166 0.640155
+inside 0.116998 0.619556
+inside 0.116882 0.598833
+inside 0.116815 0.578007
+inside 0.116794 0.557099
+inside 0.11682 0.53613
+inside 0.116891 0.515121
+inside 0.117007 0.494092
+inside 0.117168 0.473065
+inside 0.117376 0.452059
+inside 0.117631 0.431097
+inside 0.117934 0.410198
+inside 0.11829 0.389384
+inside 0.118699 0.368677
+inside 0.119167 0.348098
+inside 0.119698 0.327669
+inside 0.120296 0.307413
+inside 0.12097 0.287354
+inside 0.121726 0.267514
+inside 0.122576 0.24792
+inside 0.123531 0.228597
+inside 0.124606 0.209573
+inside 0.125821 0.190877
+inside 0.127198 0.172539
+inside 0.128769 0.154595
+inside 0.130573 0.137082
+inside 0.132663 0.120042
+inside 0.135109 0.103524
+inside 0.138011 0.087585
+inside 0.14151 0.0722935
+inside 0.145821 0.0577365
+inside 0.151281 0.0440275
+inside 0.158458 0.0313243
+inside 0.168397 0.0198639
+inside 0.183287 0.0100446
+other loop
+other loop
+inside 0.289666 0.999414
+inside 0.199417 0.997991
+inside 0.168241 0.991164
+inside 0.152544 0.981786
+inside 0.142996 0.970728
+inside 0.136531 0.958407
+inside 0.131847 0.945069
+inside 0.128291 0.930874
+inside 0.1255 0.915936
+inside 0.123257 0.900344
+inside 0.121419 0.884166
+inside 0.119892 0.867459
+inside 0.118609 0.850271
+inside 0.117524 0.832642
+inside 0.1166 0.814612
+inside 0.115811 0.796212
+inside 0.115136 0.777473
+inside 0.11456 0.758425
+inside 0.11407 0.739093
+inside 0.113655 0.719504
+inside 0.113308 0.699681
+inside 0.113023 0.679648
+inside 0.112793 0.659428
+inside 0.112614 0.639042
+inside 0.112484 0.618513
+inside 0.1124 0.597862
+inside 0.112359 0.577109
+inside 0.112361 0.556277
+inside 0.112403 0.535384
+inside 0.112486 0.514452
+inside 0.112609 0.493502
+inside 0.112774 0.472553
+inside 0.11298 0.451627
+inside 0.113228 0.430744
+inside 0.113522 0.409924
+inside 0.113861 0.389189
+inside 0.114251 0.36856
+inside 0.114694 0.348058
+inside 0.115193 0.327706
+inside 0.115756 0.307525
+inside 0.116387 0.287539
+inside 0.117095 0.267771
+inside 0.117889 0.248246
+inside 0.11878 0.22899
+inside 0.119783 0.21003
+inside 0.120915 0.191394
+inside 0.1222 0.173114
+inside 0.123666 0.155223
+inside 0.125351 0.137759
+inside 0.127304 0.120762
+inside 0.129595 0.104281
+inside 0.132319 0.0883721
+inside 0.135614 0.0731021
+inside 0.139689 0.0585558
+inside 0.144876 0.0448437
+inside 0.151742 0.0321184
+inside 0.161342 0.0206076
+inside 0.175923 0.0106898
+inside 0.201312 0.00311771
+other loop
+inside 0.273024 0.999854
+inside 0.184964 0.997273
+inside 0.156309 0.990045
+inside 0.142259 0.980449
+inside 0.133834 0.969255
+inside 0.128184 0.956845
+inside 0.124118 0.943447
+inside 0.121049 0.929214
+inside 0.118653 0.914256
+inside 0.116734 0.898656
+inside 0.115169 0.882481
+inside 0.113873 0.865785
+inside 0.11279 0.848616
+inside 0.111877 0.831015
+inside 0.111104 0.813017
+inside 0.110446 0.794655
+inside 0.109888 0.77596
+inside 0.109414 0.75696
+inside 0.109014 0.73768
+inside 0.108679 0.718146
+inside 0.108402 0.698382
+inside 0.108178 0.678411
+inside 0.108002 0.658256
+inside 0.10787 0.637937
+inside 0.107781 0.617478
+inside 0.10773 0.596898
+inside 0.107718 0.576219
+inside 0.107742 0.555461
+inside 0.107802 0.534644
+inside 0.107897 0.513789
+inside 0.108028 0.492916
+inside 0.108195 0.472046
+inside 0.108399 0.451198
+inside 0.10864 0.430394
+inside 0.10892 0.409652
+inside 0.109243 0.388996
+inside 0.109609 0.368444
+inside 0.110023 0.348019
+inside 0.110488 0.327742
+inside 0.111009 0.307636
+inside 0.111592 0.287722
+inside 0.112245 0.268025
+inside 0.112975 0.248569
+inside 0.113794 0.229379
+inside 0.114715 0.210483
+inside 0.115754 0.191908
+inside 0.116932 0.173685
+inside 0.118276 0.155847
+inside 0.119822 0.138431
+inside 0.121617 0.121478
+inside 0.123725 0.105034
+inside 0.126236 0.0891551
+inside 0.129283 0.0739067
+inside 0.133066 0.0593717
+inside 0.137907 0.0456574
+inside 0.144361 0.0329117
+inside 0.153479 0.0213532
+inside 0.167545 0.0113421
+inside 0.19266 0.0035809
+inside 0.251988 2.65276e-06
+inside 0.252639 0.999999
+inside 0.168008 0.996484
+inside 0.142895 0.988895
+inside 0.130945 0.979097
+inside 0.123888 0.967775
+inside 0.119202 0.95528
+inside 0.115854 0.941826
+inside 0.113343 0.927558
+inside 0.111393 0.91258
+inside 0.10984 0.896973
+inside 0.108579 0.880802
+inside 0.107541 0.864119
+inside 0.106678 0.84697
+inside 0.105955 0.829396
+inside 0.105347 0.811431
+inside 0.104834 0.793108
+inside 0.104401 0.774457
+inside 0.104038 0.755504
+inside 0.103736 0.736276
+inside 0.103487 0.716798
+inside 0.103287 0.697092
+inside 0.103129 0.677183
+inside 0.103011 0.657092
+inside 0.10293 0.636841
+inside 0.102883 0.61645
+inside 0.102869 0.595941
+inside 0.102887 0.575335
+inside 0.102935 0.554651
+inside 0.103014 0.533909
+inside 0.103122 0.513131
+inside 0.10326 0.492335
+inside 0.103429 0.471542
+inside 0.103629 0.450773
+inside 0.103861 0.430046
+inside 0.104127 0.409383
+inside 0.104429 0.388803
+inside 0.104769 0.368329
+inside 0.10515 0.34798
+inside 0.105576 0.327778
+inside 0.106051 0.307745
+inside 0.10658 0.287904
+inside 0.107171 0.268278
+inside 0.10783 0.24889
+inside 0.108567 0.229766
+inside 0.109394 0.210933
+inside 0.110327 0.192418
+inside 0.111383 0.174252
+inside 0.112589 0.156467
+inside 0.113975 0.139099
+inside 0.115586 0.122189
+inside 0.117479 0.105782
+inside 0.11974 0.0899338
+inside 0.12249 0.0747075
+inside 0.125916 0.0601843
+inside 0.130325 0.0464688
+inside 0.136245 0.033704
+inside 0.144701 0.0221005
+inside 0.15797 0.012001
+inside 0.182381 0.00406264
+inside 0.243463 1.83513e-05
+inside 0.225051 0.999924
+inside 0.148078 0.995634
+inside 0.127872 0.987716
+inside 0.118551 0.97773
+inside 0.11313 0.966287
+inside 0.109567 0.953712
+inside 0.107043 0.940206
+inside 0.105163 0.925905
+inside 0.103714 0.910909
+inside 0.102568 0.895297
+inside 0.101645 0.87913
+inside 0.100891 0.862461
+inside 0.10027 0.845333
+inside 0.0997544 0.827786
+inside 0.0993258 0.809855
+inside 0.0989695 0.79157
+inside 0.0986744 0.772962
+inside 0.0984319 0.754057
+inside 0.0982354 0.734881
+inside 0.0980796 0.715458
+inside 0.0979602 0.695811
+inside 0.097874 0.675963
+inside 0.0978182 0.655936
+inside 0.0977908 0.635751
+inside 0.0977902 0.61543
+inside 0.0978151 0.594991
+inside 0.0978646 0.574457
+inside 0.0979382 0.553846
+inside 0.0980356 0.53318
+inside 0.0981568 0.512477
+inside 0.098302 0.491758
+inside 0.0984718 0.471042
+inside 0.0986669 0.45035
+inside 0.0988884 0.429701
+inside 0.0991377 0.409115
+inside 0.0994165 0.388613
+inside 0.099727 0.368214
+inside 0.100072 0.347941
+inside 0.100454 0.327814
+inside 0.100877 0.307855
+inside 0.101347 0.288085
+inside 0.101867 0.268529
+inside 0.102446 0.249209
+inside 0.103092 0.230151
+inside 0.103814 0.21138
+inside 0.104627 0.192925
+inside 0.105546 0.174815
+inside 0.106594 0.157082
+inside 0.107798 0.139763
+inside 0.109197 0.122896
+inside 0.110843 0.106526
+inside 0.11281 0.0907082
+inside 0.115207 0.0755044
+inside 0.118206 0.0609936
+inside 0.122081 0.0472777
+inside 0.127325 0.0344953
+inside 0.134897 0.0228491
+inside 0.146999 0.0126659
+inside 0.170037 0.00456133
+inside 0.23241 9.80568e-05
+inside 0.18472 0.999679
+inside 0.124859 0.994729
+inside 0.111187 0.986512
+inside 0.10506 0.97635
+inside 0.101553 0.964794
+inside 0.0992766 0.952143
+inside 0.0976825 0.938587
+inside 0.0965093 0.924255
+inside 0.0956158 0.909243
+inside 0.0949188 0.893627
+inside 0.0943658 0.877465
+inside 0.0939222 0.86081
+inside 0.0935641 0.843704
+inside 0.0932743 0.826185
+inside 0.0930406 0.808287
+inside 0.0928537 0.790042
+inside 0.0927064 0.771477
+inside 0.0925934 0.75262
+inside 0.0925104 0.733495
+inside 0.0924542 0.714127
+inside 0.0924221 0.694538
+inside 0.092412 0.674752
+inside 0.0924225 0.654789
+inside 0.0924522 0.63467
+inside 0.0925003 0.614416
+inside 0.0925661 0.594048
+inside 0.0926491 0.573585
+inside 0.0927492 0.553048
+inside 0.0928663 0.532456
+inside 0.0930007 0.511828
+inside 0.0931527 0.491185
+inside 0.0933229 0.470546
+inside 0.093512 0.449931
+inside 0.0937211 0.429358
+inside 0.0939513 0.408849
+inside 0.0942043 0.388423
+inside 0.0944817 0.368101
+inside 0.0947859 0.347903
+inside 0.0951194 0.32785
+inside 0.0954855 0.307963
+inside 0.0958879 0.288265
+inside 0.0963313 0.268778
+inside 0.0968213 0.249525
+inside 0.0973648 0.230532
+inside 0.0979705 0.211824
+inside 0.0986492 0.193428
+inside 0.0994147 0.175374
+inside 0.100285 0.157694
+inside 0.101283 0.140422
+inside 0.10244 0.123598
+inside 0.103802 0.107266
+inside 0.105429 0.0914786
+inside 0.107416 0.0762973
+inside 0.109905 0.0617994
+inside 0.113136 0.048084
+inside 0.117536 0.0352855
+inside 0.123959 0.023599
+inside 0.134415 0.0133363
+inside 0.155087 0.00507556
+inside 0.217227 0.000232986
+inside 0.486122 0.00974796
+inside 0.125586 0.999296
+inside 0.0984377 0.993775
+inside 0.0929122 0.985284
+inside 0.0905167 0.974958
+inside 0.0891862 0.963295
+inside 0.0883506 0.950573
+inside 0.0877875 0.93697
+inside 0.0873915 0.922609
+inside 0.0871061 0.907582
+inside 0.0868982 0.891963
+inside 0.0867471 0.875808
+inside 0.0866392 0.859167
+inside 0.086565 0.842083
+inside 0.0865181 0.824592
+inside 0.0864937 0.806728
+inside 0.0864883 0.788522
+inside 0.0864992 0.770001
+inside 0.0865245 0.751191
+inside 0.0865627 0.732118
+inside 0.0866125 0.712805
+inside 0.0866732 0.693274
+inside 0.0867441 0.673549
+inside 0.0868247 0.653649
+inside 0.0869149 0.633596
+inside 0.0870143 0.61341
+inside 0.087123 0.593112
+inside 0.0872411 0.57272
+inside 0.0873687 0.552256
+inside 0.0875062 0.531737
+inside 0.0876539 0.511184
+inside 0.0878122 0.490617
+inside 0.087982 0.470054
+inside 0.0881638 0.449514
+inside 0.0883585 0.429018
+inside 0.0885673 0.408585
+inside 0.0887914 0.388235
+inside 0.0890323 0.367988
+inside 0.0892916 0.347865
+inside 0.0895715 0.327885
+inside 0.0898743 0.30807
+inside 0.0902031 0.288443
+inside 0.0905614 0.269025
+inside 0.0909533 0.249839
+inside 0.0913842 0.230911
+inside 0.0918606 0.212265
+inside 0.0923907 0.193928
+inside 0.0929847 0.17593
+inside 0.0936563 0.158301
+inside 0.0944232 0.141077
+inside 0.0953094 0.124296
+inside 0.0963484 0.108002
+inside 0.0975879 0.0922447
+inside 0.0990992 0.0770864
+inside 0.100994 0.0626019
+inside 0.103458 0.0488878
+inside 0.10683 0.0360744
+inside 0.111795 0.0243498
+inside 0.120018 0.0140118
+inside 0.136915 0.00560404
+inside 0.194969 0.00041608
+inside 0.49313 0.00565991
+inside 0.0526507 0.998801
+inside 0.0695733 0.992778
+inside 0.073294 0.984034
+inside 0.0750382 0.973555
+inside 0.0760973 0.961791
+inside 0.0768332 0.949002
+inside 0.077389 0.935354
+inside 0.0778332 0.920966
+inside 0.0782031 0.905927
+inside 0.0785209 0.890305
+inside 0.0788006 0.874158
+inside 0.0790518 0.857532
+inside 0.079281 0.84047
+inside 0.0794931 0.823008
+inside 0.0796915 0.805179
+inside 0.0798791 0.787011
+inside 0.080058 0.768533
+inside 0.0802299 0.749771
+inside 0.0803963 0.73075
+inside 0.0805583 0.711491
+inside 0.080717 0.692019
+inside 0.0808732 0.672354
+inside 0.0810278 0.652517
+inside 0.0811814 0.632529
+inside 0.0813347 0.612411
+inside 0.0814884 0.592182
+inside 0.0816429 0.571861
+inside 0.081799 0.551469
+inside 0.0819573 0.531024
+inside 0.0821182 0.510545
+inside 0.0822825 0.490052
+inside 0.0824508 0.469565
+inside 0.0826238 0.449101
+inside 0.0828024 0.428681
+inside 0.0829873 0.408324
+inside 0.0831795 0.388049
+inside 0.08338 0.367877
+inside 0.0835902 0.347827
+inside 0.0838113 0.32792
+inside 0.0840451 0.308177
+inside 0.0842934 0.28862
+inside 0.0845585 0.26927
+inside 0.0848431 0.250151
+inside 0.0851506 0.231287
+inside 0.0854851 0.212702
+inside 0.0858516 0.194425
+inside 0.0862568 0.176482
+inside 0.086709 0.158905
+inside 0.0872194 0.141729
+inside 0.0878029 0.12499
+inside 0.0884806 0.108733
+inside 0.0892823 0.0930067
+inside 0.0902531 0.0778716
+inside 0.0914636 0.063401
+inside 0.0930326 0.0496889
+inside 0.0951772 0.0368619
+inside 0.0983466 0.0251014
+inside 0.103657 0.0146919
+inside 0.114941 0.00614564
+inside 0.16021 0.000641564
+inside 0.0397498 0.991743
+inside 0.0527696 0.982766
+inside 0.0588254 0.972142
+inside 0.0624006 0.960283
+inside 0.0647979 0.94743
+inside 0.0665384 0.933741
+inside 0.0678725 0.919328
+inside 0.0689362 0.904277
+inside 0.0698103 0.888654
+inside 0.0705457 0.872515
+inside 0.0711765 0.855905
+inside 0.071726 0.838866
+inside 0.0722112 0.821433
+inside 0.0726446 0.803637
+inside 0.0730355 0.785509
+inside 0.0733912 0.767075
+inside 0.0737173 0.748361
+inside 0.0740184 0.72939
+inside 0.0742982 0.710186
+inside 0.0745596 0.690771
+inside 0.0748052 0.671167
+inside 0.075037 0.651393
+inside 0.0752569 0.63147
+inside 0.0754663 0.611419
+inside 0.0756666 0.591259
+inside 0.0758589 0.571008
+inside 0.0760442 0.550687
+inside 0.0762235 0.530315
+inside 0.0763976 0.50991
+inside 0.0765672 0.489492
+inside 0.0767331 0.469079
+inside 0.0768959 0.448691
+inside 0.0770562 0.428346
+inside 0.0772147 0.408064
+inside 0.0773719 0.387864
+inside 0.0775285 0.367766
+inside 0.0776852 0.347789
+inside 0.0778425 0.327955
+inside 0.0780013 0.308283
+inside 0.0781622 0.288796
+inside 0.0783263 0.269514
+inside 0.0784944 0.250461
+inside 0.0786678 0.23166
+inside 0.0788479 0.213137
+inside 0.0790363 0.194918
+inside 0.0792353 0.17703
+inside 0.0794474 0.159505
+inside 0.0796761 0.142376
+inside 0.0799262 0.12568
+inside 0.080204 0.10946
+inside 0.0805188 0.0937646
+inside 0.0808841 0.078653
+inside 0.0813214 0.0641967
+inside 0.0818666 0.0504875
+inside 0.0825859 0.0376481
+inside 0.0836166 0.0258535
+inside 0.0853054 0.0153762
+inside 0.0888857 0.00669929
+inside 0.105046 0.000904638
+inside 0.0108016 0.990672
+inside 0.0319317 0.981479
+inside 0.0421572 0.97072
+inside 0.0482559 0.958771
+inside 0.0523482 0.945858
+inside 0.0553082 0.932129
+inside 0.0575631 0.917694
+inside 0.0593471 0.902632
+inside 0.0607999 0.887009
+inside 0.0620099 0.870879
+inside 0.0630362 0.854286
+inside 0.0639197 0.83727
+inside 0.0646898 0.819866
+inside 0.0653682 0.802105
+inside 0.0659711 0.784016
+inside 0.066511 0.765626
+inside 0.0669978 0.746959
+inside 0.0674392 0.728039
+inside 0.0678415 0.70889
+inside 0.0682098 0.689532
+inside 0.0685482 0.669988
+inside 0.0688602 0.650276
+inside 0.0691487 0.630418
+inside 0.0694161 0.610434
+inside 0.0696644 0.590342
+inside 0.0698954 0.570161
+inside 0.0701106 0.549912
+inside 0.0703111 0.529612
+inside 0.0704981 0.50928
+inside 0.0706724 0.488936
+inside 0.0708347 0.468597
+inside 0.0709857 0.448283
+inside 0.0711257 0.428013
+inside 0.0712553 0.407806
+inside 0.0713745 0.38768
+inside 0.0714836 0.367655
+inside 0.0715826 0.347752
+inside 0.0716712 0.327989
+inside 0.0717492 0.308388
+inside 0.0718163 0.28897
+inside 0.0718716 0.269756
+inside 0.0719144 0.250769
+inside 0.0719434 0.232031
+inside 0.0719571 0.213569
+inside 0.0719534 0.195407
+inside 0.0719295 0.177575
+inside 0.0718818 0.160101
+inside 0.0718051 0.143019
+inside 0.0716924 0.126365
+inside 0.071534 0.110182
+inside 0.0713153 0.0945184
+inside 0.0710143 0.0794304
+inside 0.0705955 0.0649889
+inside 0.0699986 0.0512833
+inside 0.0691107 0.0384327
+inside 0.0676929 0.0266061
+inside 0.0651309 0.0160644
+inside 0.0591932 0.00726406
+inside 0.0299236 0.00120126
+inside 0.0114342 0.980177
+inside 0.0253671 0.96929
+inside 0.0338614 0.957256
+inside 0.0396143 0.944286
+inside 0.0437907 0.930521
+inside 0.0469741 0.916063
+inside 0.0494896 0.900992
+inside 0.0515329 0.885371
+inside 0.0532288 0.86925
+inside 0.054661 0.852675
+inside 0.055888 0.835682
+inside 0.0569514 0.818308
+inside 0.0578822 0.800581
+inside 0.0587036 0.782532
+inside 0.0594336 0.764185
+inside 0.0600861 0.745566
+inside 0.0606723 0.726697
+inside 0.0612009 0.707602
+inside 0.0616793 0.688301
+inside 0.0621133 0.668816
+inside 0.0625078 0.649167
+inside 0.0628669 0.629374
+inside 0.0631937 0.609456
+inside 0.0634912 0.589431
+inside 0.0637616 0.569321
+inside 0.0640069 0.549142
+inside 0.0642286 0.528914
+inside 0.0644281 0.508655
+inside 0.0646062 0.488384
+inside 0.0647638 0.468119
+inside 0.0649014 0.447879
+inside 0.0650192 0.427683
+inside 0.0651174 0.407549
+inside 0.0651958 0.387497
+inside 0.0652539 0.367546
+inside 0.0652911 0.347715
+inside 0.0653063 0.328024
+inside 0.0652982 0.308493
+inside 0.0652651 0.289143
+inside 0.0652046 0.269996
+inside 0.0651138 0.251074
+inside 0.0649889 0.2324
+inside 0.0648252 0.213998
+inside 0.0646164 0.195894
+inside 0.0643545 0.178116
+inside 0.0640288 0.160693
+inside 0.063625 0.143658
+inside 0.0631235 0.127047
+inside 0.0624965 0.110901
+inside 0.0617036 0.0952681
+inside 0.0606835 0.0802041
+inside 0.0593384 0.0657778
+inside 0.0575019 0.0520764
+inside 0.0548637 0.0392157
+inside 0.050771 0.027359
+inside 0.0435615 0.016756
+inside 0.0273641 0.00783906
+inside 0.00880476 0.967853
+inside 0.0194381 0.955738
+inside 0.026747 0.942714
+inside 0.0320948 0.928914
+inside 0.036188 0.914437
+inside 0.0394285 0.899359
+inside 0.0420618 0.883739
+inside 0.044246 0.867629
+inside 0.0460881 0.851071
+inside 0.0476628 0.834103
+inside 0.0490239 0.816758
+inside 0.0502115 0.799066
+inside 0.0512555 0.781056
+inside 0.0521792 0.762753
+inside 0.0530008 0.744181
+inside 0.0537347 0.725363
+inside 0.0543924 0.706322
+inside 0.0549832 0.687079
+inside 0.0555147 0.667653
+inside 0.0559933 0.648066
+inside 0.0564241 0.628336
+inside 0.0568114 0.608484
+inside 0.0571587 0.588528
+inside 0.0574689 0.568486
+inside 0.0577444 0.548377
+inside 0.0579871 0.52822
+inside 0.0581984 0.508034
+inside 0.0583795 0.487835
+inside 0.0585312 0.467644
+inside 0.0586538 0.447478
+inside 0.0587475 0.427355
+inside 0.058812 0.407295
+inside 0.0588467 0.387316
+inside 0.0588506 0.367437
+inside 0.0588223 0.347678
+inside 0.0587598 0.328058
+inside 0.0586608 0.308596
+inside 0.0585219 0.289315
+inside 0.0583391 0.270235
+inside 0.0581073 0.251377
+inside 0.0578201 0.232765
+inside 0.0574692 0.214424
+inside 0.057044 0.196377
+inside 0.056531 0.178653
+inside 0.055912 0.161281
+inside 0.055163 0.144293
+inside 0.0542508 0.127724
+inside 0.0531289 0.111616
+inside 0.0517296 0.0960138
+inside 0.0499506 0.0809739
+inside 0.0476288 0.0665632
+inside 0.0444882 0.0528667
+inside 0.0400185 0.039997
+inside 0.0331585 0.0281119
+inside 0.0212782 0.0174509
+inside 0.00521021 0.954218
+inside 0.0139069 0.941143
+inside 0.0203404 0.927311
+inside 0.0252974 0.912816
+inside 0.0292378 0.897731
+inside 0.0324472 0.882114
+inside 0.0351124 0.866015
+inside 0.0373607 0.849475
+inside 0.0392817 0.832531
+inside 0.0409405 0.815216
+inside 0.0423854 0.79756
+inside 0.0436532 0.779589
+inside 0.044772 0.76133
+inside 0.0457641 0.742805
+inside 0.046647 0.724038
+inside 0.0474349 0.705051
+inside 0.0481393 0.685864
+inside 0.0487694 0.666498
+inside 0.0493329 0.646972
+inside 0.0498361 0.627306
+inside 0.0502842 0.607519
+inside 0.0506815 0.58763
+inside 0.0510314 0.567657
+inside 0.0513368 0.547618
+inside 0.0515999 0.527532
+inside 0.0518224 0.507417
+inside 0.0520055 0.487291
+inside 0.05215 0.467172
+inside 0.0522561 0.447079
+inside 0.0523238 0.42703
+inside 0.0523525 0.407043
+inside 0.052341 0.387136
+inside 0.0522879 0.36733
+inside 0.0521908 0.347641
+inside 0.052047 0.328091
+inside 0.0518526 0.308699
+inside 0.0516032 0.289486
+inside 0.0512927 0.270472
+inside 0.0509138 0.251678
+inside 0.0504572 0.233129
+inside 0.0499111 0.214847
+inside 0.0492605 0.196857
+inside 0.048486 0.179187
+inside 0.0475619 0.161865
+inside 0.046454 0.144924
+inside 0.0451155 0.128397
+inside 0.0434807 0.112326
+inside 0.0414545 0.0967554
+inside 0.0388934 0.0817399
+inside 0.035571 0.0673452
+inside 0.0311059 0.0536543
+inside 0.0248037 0.0407766
+inside 0.0152534 0.0288647
+inside 0.00125303 0.939573
+inside 0.00865114 0.925711
+inside 0.014401 0.911199
+inside 0.0189977 0.896108
+inside 0.0227558 0.880495
+inside 0.0258843 0.864408
+inside 0.0285272 0.847887
+inside 0.0307871 0.830968
+inside 0.0327386 0.813683
+inside 0.0344377 0.796062
+inside 0.0359271 0.778131
+inside 0.0372397 0.759915
+inside 0.0384015 0.741438
+inside 0.039433 0.722721
+inside 0.0403509 0.703788
+inside 0.0411686 0.684657
+inside 0.0418971 0.66535
+inside 0.0425454 0.645885
+inside 0.0431208 0.626283
+inside 0.0436295 0.606561
+inside 0.0440765 0.586738
+inside 0.0444657 0.566833
+inside 0.0448005 0.546864
+inside 0.0450833 0.526849
+inside 0.0453161 0.506805
+inside 0.0455001 0.486751
+inside 0.0456361 0.466704
+inside 0.0457243 0.446684
+inside 0.0457643 0.426707
+inside 0.0457553 0.406792
+inside 0.0456955 0.386958
+inside 0.0455828 0.367222
+inside 0.0454143 0.347605
+inside 0.045186 0.328125
+inside 0.044893 0.308802
+inside 0.0445292 0.289655
+inside 0.0440867 0.270707
+inside 0.043556 0.251977
+inside 0.0429248 0.23349
+inside 0.0421779 0.215267
+inside 0.0412956 0.197334
+inside 0.0402526 0.179717
+inside 0.0390159 0.162446
+inside 0.0375411 0.145551
+inside 0.035768 0.129066
+inside 0.0336123 0.113032
+inside 0.0309526 0.097493
+inside 0.0276071 0.0825021
+inside 0.023291 0.0681237
+inside 0.0175318 0.0544391
+inside 0.00948563 0.0415544
+inside 0.00359734 0.909587
+inside 0.00879053 0.894492
+inside 0.0130574 0.878883
+inside 0.0166218 0.862808
+inside 0.0196402 0.846307
+inside 0.0222251 0.829413
+inside 0.0244594 0.812159
+inside 0.0264054 0.794573
+inside 0.028111 0.776681
+inside 0.0296133 0.758509
+inside 0.0309416 0.740079
+inside 0.0321194 0.721413
+inside 0.0331654 0.702533
+inside 0.0340949 0.683458
+inside 0.0349205 0.66421
+inside 0.0356525 0.644806
+inside 0.0362991 0.625267
+inside 0.0368675 0.60561
+inside 0.0373632 0.585853
+inside 0.0377908 0.566016
+inside 0.038154 0.546116
+inside 0.0384556 0.52617
+inside 0.0386976 0.506197
+inside 0.0388814 0.486214
+inside 0.0390077 0.46624
+inside 0.0390767 0.446291
+inside 0.0390876 0.426386
+inside 0.0390391 0.406543
+inside 0.0389293 0.38678
+inside 0.0387553 0.367116
+inside 0.0385132 0.347569
+inside 0.0381982 0.328158
+inside 0.0378041 0.308903
+inside 0.0373233 0.289824
+inside 0.0367461 0.27094
+inside 0.0360607 0.252274
+inside 0.0352519 0.233848
+inside 0.0343009 0.215684
+inside 0.0331838 0.197808
+inside 0.0318695 0.180244
+inside 0.0303176 0.163023
+inside 0.0284744 0.146174
+inside 0.0262669 0.129732
+inside 0.0235937 0.113734
+inside 0.0203098 0.0982267
+inside 0.0161996 0.0832604
+inside 0.0109303 0.0688988
+inside 0.00395885 0.055221
+inside 0.00342227 0.877278
+inside 0.00738628 0.861216
+inside 0.0107537 0.844734
+inside 0.0136441 0.827866
+inside 0.0161464 0.810642
+inside 0.0183281 0.793092
+inside 0.0202412 0.77524
+inside 0.0219263 0.757111
+inside 0.0234157 0.738728
+inside 0.0247352 0.720113
+inside 0.0259057 0.701286
+inside 0.0269441 0.682267
+inside 0.0278644 0.663077
+inside 0.0286778 0.643734
+inside 0.0293939 0.624257
+inside 0.0300203 0.604665
+inside 0.0305633 0.584974
+inside 0.0310279 0.565204
+inside 0.0314182 0.545372
+inside 0.0317373 0.525496
+inside 0.0319873 0.505593
+inside 0.0321698 0.485681
+inside 0.0322853 0.465778
+inside 0.0323337 0.445901
+inside 0.0323143 0.426068
+inside 0.0322253 0.406296
+inside 0.0320642 0.386604
+inside 0.0318275 0.367011
+inside 0.0315105 0.347533
+inside 0.0311075 0.328191
+inside 0.0306111 0.309004
+inside 0.0300121 0.289991
+inside 0.0292991 0.271172
+inside 0.0284579 0.252569
+inside 0.0274708 0.234204
+inside 0.0263156 0.216099
+inside 0.024964 0.198278
+inside 0.0233798 0.180768
+inside 0.0215158 0.163596
+inside 0.0193097 0.146793
+inside 0.0166771 0.130393
+inside 0.0135018 0.114433
+inside 0.00961874 0.0989563
+inside 0.00478614 0.084015
+inside 0.00192213 0.843169
+inside 0.00509322 0.826327
+inside 0.00784437 0.809134
+inside 0.0102467 0.791619
+inside 0.0123553 0.773807
+inside 0.0142137 0.755722
+inside 0.0158564 0.737386
+inside 0.0173114 0.718821
+inside 0.0186011 0.700047
+inside 0.019744 0.681084
+inside 0.0207552 0.661952
+inside 0.0216471 0.642669
+inside 0.0224299 0.623255
+inside 0.023112 0.603726
+inside 0.0237002 0.584101
+inside 0.0242 0.564398
+inside 0.0246159 0.544634
+inside 0.024951 0.524827
+inside 0.0252077 0.504994
+inside 0.0253876 0.485152
+inside 0.0254911 0.46532
+inside 0.0255181 0.445514
+inside 0.0254675 0.425751
+inside 0.0253371 0.406051
+inside 0.0251239 0.38643
+inside 0.0248239 0.366906
+inside 0.0244317 0.347498
+inside 0.0239404 0.328224
+inside 0.0233416 0.309104
+inside 0.0226246 0.290157
+inside 0.0217764 0.271403
+inside 0.0207806 0.252862
+inside 0.0196171 0.234557
+inside 0.0182604 0.21651
+inside 0.0166786 0.198745
+inside 0.0148305 0.181288
+inside 0.0126631 0.164166
+inside 0.0101065 0.147409
+inside 0.00706712 0.13105
+inside 0.00341662 0.115127
+inside 0.00220218 0.790155
+inside 0.00449161 0.772383
+inside 0.00651128 0.754341
+inside 0.00829756 0.736052
+inside 0.00987983 0.717537
+inside 0.011282 0.698816
+inside 0.0125237 0.679909
+inside 0.013621 0.660834
+inside 0.0145871 0.641612
+inside 0.0154331 0.622259
+inside 0.0161678 0.602794
+inside 0.0167987 0.583234
+inside 0.0173315 0.563597
+inside 0.0177709 0.543901
+inside 0.0181204 0.524163
+inside 0.0183825 0.504399
+inside 0.0185586 0.484627
+inside 0.0186492 0.464865
+inside 0.0186539 0.445129
+inside 0.0185714 0.425438
+inside 0.0183993 0.405807
+inside 0.018134 0.386256
+inside 0.0177708 0.366802
+inside 0.0173037 0.347463
+inside 0.016725 0.328257
+inside 0.016025 0.309204
+inside 0.0151918 0.290322
+inside 0.0142108 0.271631
+inside 0.0130637 0.253153
+inside 0.0117282 0.234908
+inside 0.010176 0.216919
+inside 0.00837176 0.19921
+inside 0.00627036 0.181805
+inside 0.00381376 0.164732
+inside 0.000926105 0.148021
+inside 0.000772788 0.734726
+inside 0.00247259 0.716261
+inside 0.00397901 0.697592
+inside 0.00531253 0.678741
+inside 0.00649004 0.659724
+inside 0.00752547 0.640561
+inside 0.00843034 0.62127
+inside 0.00921411 0.601868
+inside 0.00988448 0.582373
+inside 0.0104476 0.562802
+inside 0.0109084 0.543173
+inside 0.0112705 0.523503
+inside 0.0115364 0.503808
+inside 0.0117075 0.484106
+inside 0.0117843 0.464413
+inside 0.0117663 0.444747
+inside 0.0116517 0.425126
+inside 0.0114379 0.405565
+inside 0.011121 0.386084
+inside 0.0106955 0.366699
+inside 0.0101549 0.347428
+inside 0.00949053 0.328289
+inside 0.00869183 0.309302
+inside 0.00774574 0.290485
+inside 0.00663618 0.271859
+inside 0.00534334 0.253442
+inside 0.00384272 0.235257
+inside 0.00210386 0.217325
+inside 8.85811e-05 0.199671
+inside 0.000489704 0.639517
+inside 0.00144857 0.620287
+inside 0.00227718 0.600948
+inside 0.00298355 0.581518
+inside 0.00357409 0.562013
+inside 0.00405381 0.54245
+inside 0.00442647 0.522848
+inside 0.00469461 0.503221
+inside 0.00485967 0.483588
+inside 0.00492201 0.463965
+inside 0.00488087 0.444368
+inside 0.00473441 0.424816
+inside 0.00447955 0.405325
+inside 0.00411196 0.385913
+inside 0.00362589 0.366596
+inside 0.00301394 0.347393
+inside 0.00226687 0.328322
+inside 0.00137325 0.3094
+inside 0.000318978 0.290648
